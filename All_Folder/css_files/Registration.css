@@ -1,0 +1,32 @@
+html,body{
+    height:100%;
+    width:100%;
+    font-family:'poppins', sans-serif;
+    color: #222
+}
+form{
+    font-size: 15px;
+    padding-left: 10px;
+    
+}
+label{
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+input{
+    margin-bottom: 10px;
+}
+.btn-primary{
+    width: 150px;
+    font-size: 20px;
+    border-radius: 15px;
+    background-image: linear-gradient(120deg,#752dce,#203020);
+}
+  .btn-primary:hover{
+      color:#000000; 
+      background-color: #f0f8f7;
+}
+
+
+
+
