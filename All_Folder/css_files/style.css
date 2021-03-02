@@ -1,0 +1,154 @@
+
+html,body{
+    height:100%;
+    width:100%;
+    font-family:'poppins', sans-serif;
+    color: #222
+  }
+  .Htexts{
+    color: #752dce;
+    padding-top:5%;
+  }
+  .navbar{
+    padding:8px;
+  }
+  .navbar-nav li{
+    padding-right:20px;
+  }
+  .nav-link{
+    font-size: 17px !important;
+  }
+  .nav-item :hover{
+    background-color: #752dce;
+  }
+  form{
+    width:360px;
+    height:580px;
+    margin:20px;
+  }
+  .form-text{
+    margin-left:20px;
+  }
+  #login_btn{
+    padding:5px;
+    width:200px;
+    margin:10px;
+
+
+  }
+
+  .btn-primary{
+    font-size: 20px;
+    border-radius: 15px;
+    margin:10px;
+    background-image: linear-gradient(120deg,#752dce,#203020);
+    }
+  .btn-primary:hover{
+      color:#000000; 
+      background-color: #f0f8f7;
+    }
+
+  .avatar{
+    width:200px;
+    padding-left:100px;
+    
+  }
+  .jumbotron{
+    padding: 1.5rem;
+    background-color: #752dce;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    width: 101%;
+  }
+  form h2{
+    font-size:1rem;
+    text-transform: uppercase;
+    margin:15px 0;
+    color: #333;
+    transition:0.7s ease;
+  }
+  .i{
+    display:grid;
+    justify-content:center;
+    align-items: center;
+    color:#752dce;
+  }  
+  .carousel-inner{
+    width: 100%;
+   
+    
+  }
+.forget-pass{
+    color: #731ec2;
+    font-size: 14px;
+    padding: 60px;
+}
+.forget-pass a{
+  text-decoration: none; 
+}
+.text{
+  color: #0a0707;
+  text-decoration: none;
+ 
+
+}
+.img2{
+  width:100%;
+}
+.form-text a{
+  text-decoration: none;
+}
+    
+form .input-div{
+    display:grid;
+    grid-template-columns: 10% 80%;
+    margin:auto;
+}
+.log-reg{
+  padding-left: 80px;
+  margin:0px;
+}
+footer{
+  background-image: linear-gradient(120deg,#752dce,#203020);
+  color: #d5d5d5;
+  padding-top: 2rem;
+}
+hr{
+  padding-top:0%;
+}
+.social a{
+  font-size: 4.5em;
+  padding:3rem;
+}
+.fa-facebook{
+  color: #3b5998;
+}
+.fa-twitter{
+  color: #00aced;
+}
+ .fa-youtube{
+  color: #dd4b39;
+ }
+.fa.instagram{
+  color: #517fa8;
+}
+.fa-google-plus-g{
+  color: #bb0000;
+}
+.fa-facebook :hover,
+.fa-twitter :hover,
+.fa-youtube :hover,
+.fa.instagram :hover,
+.fa-google-plus-g :hover{
+  color: #d5d5d5;
+}
+hr.light{
+  border-top:1px solid #d5d5d5;
+  width: 75%;
+  margin-top: .8rem;
+  margin-bottom: 1rem;
+
+}
+footer a{
+  color: #d5d5d5;
+}
